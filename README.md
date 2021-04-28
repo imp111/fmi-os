@@ -1,7 +1,4 @@
-# fmi-os
+# Operating System Course
 
-Структура:
 
-- `exercises` - задачи за упражнение
-- `sample_code` - решени задачи, демонстриращи различни концепции
 
